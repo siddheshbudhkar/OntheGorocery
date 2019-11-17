@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1062870553658",
+    "firebase_url": "https://on-the-gorocery.firebaseio.com",
+    "project_id": "on-the-gorocery",
+    "storage_bucket": "on-the-gorocery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062870553658:android:884ac025dfa699e2c3d103",
+        "android_client_info": {
+          "package_name": "com.example.onthegorocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062870553658-h5cur11sju2t6igcdt6ea4jbtktalj1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onthegorocery",
+            "certificate_hash": "6555f777db876b3b4bccf483249100a739ef7f41"
+          }
+        },
+        {
+          "client_id": "1062870553658-rj05letb1id1k8c38105u4jm9kthldki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFkEuDQXf0Dd_dtUjbW3yKcLy1MCU4Tac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062870553658-rj05letb1id1k8c38105u4jm9kthldki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
